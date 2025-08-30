@@ -13,11 +13,11 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'DecoTV',
-    url: 'https://decotv.example',
-    description: '免费在线视频搜索与观看平台（基于 LibreTV 二次创作）',
+    name: 'LibreTV',
+    url: 'https://libretv.is-an.org',
+    description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
-    version: '0.1.0'
+    version: '1.0.3'
 };
 
 // API站点配置
