@@ -158,7 +158,7 @@ const API_SITES = {
     },
     yutu: {
         api: 'https://yutuzy10.com',
-        name: '玉兔资源',
+        name: '资源玉兔',
         adult: true
     },
 };
